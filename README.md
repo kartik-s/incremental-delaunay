@@ -3,7 +3,7 @@
 This is a pretty straightforward implementation of the incremental algorithm described in "Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams".
  
 Here's a quick example usage using Love2D:
-```
+```lua
 local subdivision = require("subdivision")
 
 local point = {}
